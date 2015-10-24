@@ -28,7 +28,7 @@
     "diskspace"
   ],
   "dependencies": {
-   "nan": "*"
+    "nsutil": "git+https://github.com/capitalfuse/nsutil.git#master"
   },
   "peerDependencies": {
     "pimatic": "0.8.*"
