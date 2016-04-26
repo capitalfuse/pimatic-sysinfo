@@ -10,7 +10,7 @@
     "device-config-schema.coffee",
     "icon.svg"
   ],
-  "version": "0.8.13",
+  "version": "0.9.4",
   "homepage": "http://github.com/capitalfuse/pimatic-sysinfo#development",
   "repository": {
     "type": "git",
@@ -31,10 +31,10 @@
     "nsutil": "git+https://github.com/capitalfuse/nsutil.git#master"
   },
   "peerDependencies": {
-    "pimatic": "0.8.*"
+    "pimatic": "0.9.*"
   },
   "engines": {
-    "node": ">4.1.x",
-    "npm": ">2.1.x"
+    "node": ">=4.4.x",
+    "npm": ">=2.15.x"
   }
 }
