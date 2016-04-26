@@ -1,7 +1,7 @@
 {
   "name": "pimatic-sysinfo",
   "description": "pimatic plugin for displaying cpu, memory usage and temperature of the raspberry pi.",
-  "author": "Takanobu Fuse <ficus.online.store@gmail.com> (http://pimatic.org)",
+  "author": "Takanobu Fuse <capitalfuse@gmail.com> (http://pimatic.org)",
   "main": "sysinfo",
   "files": [
     "sysinfo.coffee",
@@ -11,10 +11,10 @@
     "icon.svg"
   ],
   "version": "0.9.4",
-  "homepage": "http://github.com/capitalfuse/pimatic-sysinfo#development",
+  "homepage": "https://github.com/capitalfuse/pimatic-sysinfo/tree/v0.9.x",
   "repository": {
     "type": "git",
-    "url": "git://github.com/capitalfuse/pimatic-sysinfo.git#development"
+    "url": "git://github.com/capitalfuse/pimatic-sysinfo.git#v0.9.x"
   },
   "configSchema": "sysinfo-config-schema.coffee",
   "icon": "icon.svg",
